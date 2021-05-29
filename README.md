@@ -2,15 +2,25 @@
 The work should cover the following:
 
 ●	Removing duplicate records from a data set
+
 ●	Replacing null values where necessary
+
 ●	Normalising values where necessary
+
 ●	Correcting the format of dates where necessary
+
 ●	Resetting data values
+
 ●	Joining data from 2 different sources
+
 ●	Merging and joining data
+
 ●	Finding measures of central tendency (max, min, mean, median)
+
 ●	Finding standard deviation
+
 ●	Performing a linear regression
+
 ●	Checking for normal distribution
 
 The following exercises will provide evidence for each of the above:
